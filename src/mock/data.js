@@ -22,7 +22,7 @@ export const aboutData = {
   paragraphTwo: `Mon langage de prédilection est javascript notamment avec la librairie React, je suis également compétent avec des langages comme Php,Java,C++,C# et biens d'autres.`,
   paragraphThree:
     'Vous pouvez en apprendre plus sur mes compétences et expériences en cliquant sur le bouton ci-dessous',
-  resume: 'https://www.resumemaker.online/es.php', // if no resume, the button will not show up
+  resume: '', // if no resume, the button will not show up
 };
 
 // PROJECTS DATA
