@@ -28,7 +28,7 @@ module.exports = {
         background_color: `#fff`,
         theme_color: `#02aab0`,
         display: `standalone`,
-        icon: 'src/images/favicon.png',
+        include_favicon: false, // This will exclude favicon link tag
       },
     },
   ],
